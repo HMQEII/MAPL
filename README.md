@@ -1,3 +1,3 @@
 # MAPL
-# how to rum a flutter app
+# how to run a flutter app
 > flutter run
